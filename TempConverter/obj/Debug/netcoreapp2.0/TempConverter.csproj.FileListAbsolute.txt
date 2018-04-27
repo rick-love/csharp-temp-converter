@@ -1,0 +1,11 @@
+C:\Users\p171100\Desktop\C# Practice\TempConverter\TempConverter\bin\Debug\netcoreapp2.0\TempConverter.deps.json
+C:\Users\p171100\Desktop\C# Practice\TempConverter\TempConverter\bin\Debug\netcoreapp2.0\TempConverter.runtimeconfig.json
+C:\Users\p171100\Desktop\C# Practice\TempConverter\TempConverter\bin\Debug\netcoreapp2.0\TempConverter.runtimeconfig.dev.json
+C:\Users\p171100\Desktop\C# Practice\TempConverter\TempConverter\bin\Debug\netcoreapp2.0\TempConverter.dll
+C:\Users\p171100\Desktop\C# Practice\TempConverter\TempConverter\bin\Debug\netcoreapp2.0\TempConverter.pdb
+C:\Users\p171100\Desktop\C# Practice\TempConverter\TempConverter\obj\Debug\netcoreapp2.0\TempConverter.csprojResolveAssemblyReference.cache
+C:\Users\p171100\Desktop\C# Practice\TempConverter\TempConverter\obj\Debug\netcoreapp2.0\TempConverter.csproj.CoreCompileInputs.cache
+C:\Users\p171100\Desktop\C# Practice\TempConverter\TempConverter\obj\Debug\netcoreapp2.0\TempConverter.AssemblyInfoInputs.cache
+C:\Users\p171100\Desktop\C# Practice\TempConverter\TempConverter\obj\Debug\netcoreapp2.0\TempConverter.AssemblyInfo.cs
+C:\Users\p171100\Desktop\C# Practice\TempConverter\TempConverter\obj\Debug\netcoreapp2.0\TempConverter.dll
+C:\Users\p171100\Desktop\C# Practice\TempConverter\TempConverter\obj\Debug\netcoreapp2.0\TempConverter.pdb
